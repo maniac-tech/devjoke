@@ -186,3 +186,6 @@ A URLogist
 ***
 
 ![java](./images/garbage-collector.png)
+
+***
+If people don't get the difference between Git and GitHub, then ask them to think about it as Porn and PornHub.
